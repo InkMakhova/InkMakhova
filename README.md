@@ -9,6 +9,8 @@ I’m currently learning JavaScript and React. In my training projects I've alre
 - JS (ES6)
 - React
 - Redux
+- Docker
+- ci-cd
 - Gulp, WebPack
 
 You can reach me: i.m.makhova@gmail.com or https://www.linkedin.com/in/inna-makhova/
