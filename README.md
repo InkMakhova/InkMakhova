@@ -1,7 +1,7 @@
 Hi! 
-I’m @InkMakhova. I’m interested in frontend-technologies and I'd like to find a great job as a frontend-developer.
+I’m @InkMakhova. I’m interested in frontend-technologies and I'm working as a frontend-developer.
 
-I’m currently learning JavaScript and React. In my training projects I've already used such technologies as:
+In my training projects I've already used such technologies as:
 - HTML and CSS
 - BEM
 - LESS/SASS
